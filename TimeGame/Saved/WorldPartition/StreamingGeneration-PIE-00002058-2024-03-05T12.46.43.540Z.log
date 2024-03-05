@@ -1,0 +1,57 @@
+[+] Containers:
+ |- [+] Container: /Game/NewInstance
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:05402FFE4EAC45EF7F1C2BB0A16997ED BaseClass:/Game/ThirdPerson/Blueprints/BP_NewTree.BP_NewTree_C NativeClass:/Script/Engine.Actor Name:BP_NewTree_C_UAID_30D042E8BB167EDF01_1595439877 Label:BP_NewTree SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=252.500 Y=582.500 Z=-15.000), Max=(X=427.500 Y=757.500 Z=271.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2C9BF98240DEB18383F925A884D80010 BaseClass:/Game/ThirdPerson/Blueprints/BP_NewTree.BP_NewTree_C NativeClass:/Script/Engine.Actor Name:BP_NewTree_C_UAID_30D042E8BB167EDF01_1595441878 Label:BP_NewTree2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=252.500 Y=892.500 Z=-15.000), Max=(X=427.500 Y=1067.500 Z=271.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5793C7A6407FDB4D19EC0493E7CD708A BaseClass:/Game/ThirdPerson/Blueprints/BP_NewTree.BP_NewTree_C NativeClass:/Script/Engine.Actor Name:BP_NewTree_C_UAID_30D042E8BB167EDF01_1595442879 Label:BP_NewTree3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=232.500 Y=1202.500 Z=-15.000), Max=(X=407.500 Y=1377.500 Z=271.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:DFA4262E4ED74A782F64A485A828DC2C BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:FBB17814446CF3FB73DDCA9CF0CF71DD BaseClass:/Game/ThirdPerson/Blueprints/NewInstance.NewInstance_C NativeClass:/Script/Engine.Actor Name:NewInstance_C_UAID_30D042E8BB167EDF01_1595438876 Label:NewInstance SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-170.000 Y=1030.000 Z=0.000), Max=(X=-170.000 Y=1030.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:DFA4262E4ED74A782F64A485A828DC2C BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:FBB17814446CF3FB73DDCA9CF0CF71DD BaseClass:/Game/ThirdPerson/Blueprints/NewInstance.NewInstance_C NativeClass:/Script/Engine.Actor Name:NewInstance_C_UAID_30D042E8BB167EDF01_1595438876 Label:NewInstance SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-170.000 Y=1030.000 Z=0.000), Max=(X=-170.000 Y=1030.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:05402FFE4EAC45EF7F1C2BB0A16997ED BaseClass:/Game/ThirdPerson/Blueprints/BP_NewTree.BP_NewTree_C NativeClass:/Script/Engine.Actor Name:BP_NewTree_C_UAID_30D042E8BB167EDF01_1595439877 Label:BP_NewTree SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=252.500 Y=582.500 Z=-15.000), Max=(X=427.500 Y=757.500 Z=271.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:2C9BF98240DEB18383F925A884D80010 BaseClass:/Game/ThirdPerson/Blueprints/BP_NewTree.BP_NewTree_C NativeClass:/Script/Engine.Actor Name:BP_NewTree_C_UAID_30D042E8BB167EDF01_1595441878 Label:BP_NewTree2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=252.500 Y=892.500 Z=-15.000), Max=(X=427.500 Y=1067.500 Z=271.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:5793C7A6407FDB4D19EC0493E7CD708A BaseClass:/Game/ThirdPerson/Blueprints/BP_NewTree.BP_NewTree_C NativeClass:/Script/Engine.Actor Name:BP_NewTree_C_UAID_30D042E8BB167EDF01_1595442879 Label:BP_NewTree3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=232.500 Y=1202.500 Z=-15.000), Max=(X=407.500 Y=1377.500 Z=271.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/NewInstance
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 30 
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count    5 (100.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X0_Y0
+ |   |- Actor Count: 5
+ |   |- Actor Path: /Game/UEDPIE_0_NewInstance_LevelInstance_47.NewInstance:PersistentLevel.WorldDataLayers
+ |   |- Actor Package: /Game/__ExternalActors__/NewInstance/0/XJ/A56MEZOUICSK9DW4G8NOZL
+ |   |- Actor Path: /Game/UEDPIE_0_NewInstance_LevelInstance_47.NewInstance:PersistentLevel.NewInstance_C_UAID_30D042E8BB167EDF01_1595438876
+ |   |- Actor Package: /Game/__ExternalActors__/NewInstance/3/VR/IDZKQ4HGJ8LMHKDX20RGW9
+ |   |- Actor Path: /Game/UEDPIE_0_NewInstance_LevelInstance_47.NewInstance:PersistentLevel.BP_NewTree_C_UAID_30D042E8BB167EDF01_1595439877
+ |   |- Actor Package: /Game/__ExternalActors__/NewInstance/5/BP/FPGC9MXXB78823T11O304L
+ |   |- Actor Path: /Game/UEDPIE_0_NewInstance_LevelInstance_47.NewInstance:PersistentLevel.BP_NewTree_C_UAID_30D042E8BB167EDF01_1595441878
+ |   |- Actor Package: /Game/__ExternalActors__/NewInstance/7/OY/5HZ7ACK2CRVWQR736V2W0N
+ |   |- Actor Path: /Game/UEDPIE_0_NewInstance_LevelInstance_47.NewInstance:PersistentLevel.BP_NewTree_C_UAID_30D042E8BB167EDF01_1595442879
+ |   |- Actor Package: /Game/__ExternalActors__/NewInstance/9/DX/9B3O2MD60OC8R1XD0GK1EP
+
